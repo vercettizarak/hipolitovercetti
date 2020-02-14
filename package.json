@@ -1,0 +1,15 @@
+{
+  "name": "vercettizarak",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "hipolito vercetti",
+  "license": "ISC",
+  "homepage": "vercettizarak.github.io/hipolitovercetti",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
